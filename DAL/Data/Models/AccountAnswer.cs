@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Models
+namespace DAL.Data.Models
 {
     public class AccountAnswer
     {
@@ -19,7 +19,7 @@ namespace DAL.Models
         [MaxLength(100)]
         public string Answer { get; set; }
         public bool IsCorrect { get; set; }
- 
+
 
     }
 }

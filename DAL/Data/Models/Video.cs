@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Models
+namespace DAL.Data.Models
 {
     public class Video
     {
@@ -29,7 +29,7 @@ namespace DAL.Models
 
         #region Video - Exam (1-1)
         public int? ExamID { get; set; }
-        public Exam Exam { get; set; } 
+        public Exam Exam { get; set; }
         #endregion
     }
 }

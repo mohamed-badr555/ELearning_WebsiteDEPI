@@ -1,4 +1,4 @@
-﻿using DAL.Models;
+﻿using DAL.Data.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -148,9 +148,10 @@ namespace DAL.DB_Context
     
 
 
-    
-    public DbSet<Category> Categories { get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+        public DbSet<Category> Categories { get; set; }
         public DbSet<Course> Courses { get; set; }
+        public DbSet<CourseAccount> CourseAccounts { get; set; }
         public DbSet<CourseUnit> CourseUnits { get; set; }
         public DbSet<Exam> Exams { get; set; }
         public DbSet<Question> Questions { get; set; }
@@ -158,8 +159,5 @@ namespace DAL.DB_Context
         public DbSet<Video> Videos { get; set; }
         public DbSet<VideoComment> VideoComments { get; set; }
         public DbSet<AccountAnswer> AccountAnswers { get; set; }
-
-
-
     }
 }

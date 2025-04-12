@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\New folder\\DEPI\\Project\\API\\E-Learning_API\\BLL\\BLL.csproj": {}
+    "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj": {}
   },
   "projects": {
-    "E:\\New folder\\DEPI\\Project\\API\\E-Learning_API\\BLL\\BLL.csproj": {
+    "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New folder\\DEPI\\Project\\API\\E-Learning_API\\BLL\\BLL.csproj",
+        "projectUniqueName": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "E:\\New folder\\DEPI\\Project\\API\\E-Learning_API\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\New folder\\DEPI\\Project\\API\\E-Learning_API\\BLL\\obj\\",
+        "projectPath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\aliaa\\.nuget\\packages\\",
+        "outputPath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\BLL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aliaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\New folder\\DEPI\\Project\\API\\E-Learning_API\\DAL\\DAL.csproj": {
-                "projectPath": "E:\\New folder\\DEPI\\Project\\API\\E-Learning_API\\DAL\\DAL.csproj"
+              "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj": {
+                "projectPath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj"
               }
             }
           }
@@ -44,7 +47,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -65,21 +69,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\New folder\\DEPI\\Project\\API\\E-Learning_API\\DAL\\DAL.csproj": {
+    "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New folder\\DEPI\\Project\\API\\E-Learning_API\\DAL\\DAL.csproj",
+        "projectUniqueName": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "E:\\New folder\\DEPI\\Project\\API\\E-Learning_API\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\New folder\\DEPI\\Project\\API\\E-Learning_API\\DAL\\obj\\",
+        "projectPath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\aliaa\\.nuget\\packages\\",
+        "outputPath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aliaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,7 +95,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -105,7 +112,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -146,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

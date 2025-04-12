@@ -1,5 +1,5 @@
+using DAL.Data.Models;
 using DAL.DB_Context;
-using DAL.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;

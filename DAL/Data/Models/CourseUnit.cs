@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Models
+namespace DAL.Data.Models
 {
     public class CourseUnit
     {
@@ -13,7 +13,7 @@ namespace DAL.Models
         [MaxLength(50)]
         public string Title { get; set; }
         [MaxLength(1500)]
-        public string Description { get; set; }   
+        public string Description { get; set; }
         public int Order { get; set; }
 
         #region CourseUnit - Course (M-1)
@@ -22,7 +22,7 @@ namespace DAL.Models
         #endregion
 
         #region Course - Video (1-M)
-        public ICollection<Video> videos { get; set; } 
+        public ICollection<Video> videos { get; set; }
         #endregion
     }
 }

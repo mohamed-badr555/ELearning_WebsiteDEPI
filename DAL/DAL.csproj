@@ -7,9 +7,24 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
-    <Folder Include="Data\" />
-    <Folder Include="Repositories\" />
+    <Compile Remove="Repositories\**" />
+    <EmbeddedResource Remove="Repositories\**" />
+    <None Remove="Repositories\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Repositories\QuestionChoiceRepo\IQuestionChoiceRepo.cs" />
+    <Compile Include="Repositories\QuestionChoiceRepo\QuestionChoiceRepo.cs" />
+    <Compile Include="Repositories\QuestionRepo\IQuestionRepo.cs" />
+    <Compile Include="Repositories\QuestionRepo\QuestionRepo.cs" />
+    <Compile Include="Repositories\VideoCommentRepo\IVideoCommentRepo.cs" />
+    <Compile Include="Repositories\VideoCommentRepo\VideoCommentRepo.cs" />
+    <Compile Include="Repositories\VideoRepo\IVideoRepo.cs" />
+    <Compile Include="Repositories\VideoRepo\VideoRepo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\Models\" />
   </ItemGroup>
 
   <ItemGroup>

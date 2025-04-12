@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Models
+namespace DAL.Data.Models
 {
     public class Course
     {
@@ -19,9 +19,9 @@ namespace DAL.Models
         public string Path { get; set; }   // Path of the course videos directory
         public float Price { get; set; }
         public bool IsFree { get; set; }
-        [Range(1,5)]
-        public int Rating { get; set; }  
-        [MaxLength(2000)] 
+        [Range(1, 5)]
+        public int Rating { get; set; }
+        [MaxLength(2000)]
         public string Description { get; set; }
         [MaxLength(1500)]
         public string Details { get; set; }
@@ -44,7 +44,7 @@ namespace DAL.Models
         #endregion
 
         #region Course - Account (M-M)
-        public ICollection<CourseAccount> CourseAccounts { get; set; } 
+        public ICollection<CourseAccount> CourseAccounts { get; set; }
         #endregion
     }
 }

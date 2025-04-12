@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Models
+namespace DAL.Data.Models
 {
     public class CourseAccount
     {
@@ -20,14 +20,14 @@ namespace DAL.Models
         public bool IsCompleted { get; set; }
         public TimeSpan CompTime { get; set; }
         public DateTime StartDate { get; set; }
-        [Range(0,100)]
+        [Range(0, 100)]
         public int Progress { get; set; }  // In percentage
         [MaxLength(500)]
 
         public string LastVideo { get; set; }   // Revise here
         [MaxLength(800)]
         public string? RateText { get; set; }
-        [Range(1,5)]
+        [Range(1, 5)]
         public int RateStars { get; set; }
     }
 }

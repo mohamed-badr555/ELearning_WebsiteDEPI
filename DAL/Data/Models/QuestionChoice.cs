@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Models
+namespace DAL.Data.Models
 {
     public class QuestionChoice
     {
@@ -17,7 +17,7 @@ namespace DAL.Models
         #region QuestionChoices - Question (M-1)
         //M-1
         public int? QuestionID { get; set; } //Foreign key 
-   
+
         public Question Question { get; set; }
         #endregion
 

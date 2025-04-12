@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Models
+namespace DAL.Data.Models
 {
 
     public class Question
@@ -20,7 +20,7 @@ namespace DAL.Models
 
         #region Question - Exam (M-1)
         public int ExamID { get; set; }//Forign key
-        public Exam Exam { get; set; } 
+        public Exam Exam { get; set; }
         #endregion
 
         #region Question - QuestionChoices (1-M)
@@ -30,9 +30,9 @@ namespace DAL.Models
 
         #region Question - QuestionChoices (1-1)
         //1-1
-   
+
         public int CorrectChoiceID { get; set; }
-       
+
 
         public QuestionChoice CorrectChoice { get; set; }
         #endregion

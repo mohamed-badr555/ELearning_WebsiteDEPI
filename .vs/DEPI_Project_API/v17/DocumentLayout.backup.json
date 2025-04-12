@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\repositories\\applicationuserrepo\\applicationuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\applicationuserrepo\\applicationuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\repositories\\categoryrepo\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\categoryrepo\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\repositories\\courserepo\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\courserepo\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\data\\db context\\e-learningdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\data\\db context\\e-learningdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\repositories\\applicationuserrepo\\iapplicationuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\applicationuserrepo\\iapplicationuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\repositories\\categoryrepo\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\categoryrepo\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\data\\models\\accountanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\data\\models\\accountanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\repositories\\accountanswerrepo\\iaccountanswerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\accountanswerrepo\\iaccountanswerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\repositories\\accountanswerrepo\\accountanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\accountanswerrepo\\accountanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|f:\\ff\\ast-full stack\\tech\\elearning_websitedepi\\dal\\repositories\\questionchoicerepo\\iquestionchoicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711CF132-158D-4BB8-8BDC-5664E946D685}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\questionchoicerepo\\iquestionchoicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseRepo.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\CourseRepo\\CourseRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CourseRepo\\CourseRepo.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\CourseRepo\\CourseRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CourseRepo\\CourseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:34:00.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "E-LearningDB.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Data\\DB Context\\E-LearningDB.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\DB Context\\E-LearningDB.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Data\\DB Context\\E-LearningDB.cs",
+              "RelativeToolTip": "DAL\\Data\\DB Context\\E-LearningDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:32:21.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\CategoryRepo\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CategoryRepo\\CategoryRepo.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\CategoryRepo\\CategoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CategoryRepo\\CategoryRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:31:09.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepo.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\CategoryRepo\\ICategoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CategoryRepo\\ICategoryRepo.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\CategoryRepo\\ICategoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CategoryRepo\\ICategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:31:03.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUserRepo.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\ApplicationUserRepo\\ApplicationUserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ApplicationUserRepo\\ApplicationUserRepo.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\ApplicationUserRepo\\ApplicationUserRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ApplicationUserRepo\\ApplicationUserRepo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:30:53.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApplicationUserRepo.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\ApplicationUserRepo\\IApplicationUserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ApplicationUserRepo\\IApplicationUserRepo.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\ApplicationUserRepo\\IApplicationUserRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ApplicationUserRepo\\IApplicationUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:30:28.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Data\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Models\\ApplicationUser.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Data\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "DAL\\Data\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:28:27.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Data\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Models\\Course.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Data\\Models\\Course.cs",
+              "RelativeToolTip": "DAL\\Data\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:28:23.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountAnswer.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Data\\Models\\AccountAnswer.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Models\\AccountAnswer.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Data\\Models\\AccountAnswer.cs",
+              "RelativeToolTip": "DAL\\Data\\Models\\AccountAnswer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:27:20.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountAnswer.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\AccountAnswerRepo\\AccountAnswer.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\AccountAnswerRepo\\AccountAnswer.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\AccountAnswerRepo\\AccountAnswer.cs",
+              "RelativeToolTip": "DAL\\Repositories\\AccountAnswerRepo\\AccountAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:25:47.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAccountAnswerRepo.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\AccountAnswerRepo\\IAccountAnswerRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\AccountAnswerRepo\\IAccountAnswerRepo.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\AccountAnswerRepo\\IAccountAnswerRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\AccountAnswerRepo\\IAccountAnswerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:25:38.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IQuestionChoiceRepo.cs",
+              "DocumentMoniker": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\QuestionChoiceRepo\\IQuestionChoiceRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\QuestionChoiceRepo\\IQuestionChoiceRepo.cs",
+              "ToolTip": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\Repositories\\QuestionChoiceRepo\\IQuestionChoiceRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\QuestionChoiceRepo\\IQuestionChoiceRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:24:37.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

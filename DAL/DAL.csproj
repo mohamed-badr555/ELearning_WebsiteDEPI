@@ -13,6 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Include="Repositories\AccountAnswerRepo\AccountAnswer.cs" />
+    <Compile Include="Repositories\AccountAnswerRepo\IAccountAnswerRepo.cs" />
+    <Compile Include="Repositories\ApplicationUserRepo\ApplicationUserRepo.cs" />
+    <Compile Include="Repositories\ApplicationUserRepo\IApplicationUserRepo.cs" />
     <Compile Include="Repositories\QuestionChoiceRepo\IQuestionChoiceRepo.cs" />
     <Compile Include="Repositories\QuestionChoiceRepo\QuestionChoiceRepo.cs" />
     <Compile Include="Repositories\QuestionRepo\IQuestionRepo.cs" />

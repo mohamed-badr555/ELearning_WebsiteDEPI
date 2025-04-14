@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Managers.ApplicationUserManager
 {
-    internal class ApplicationUserManager : IApplicationUserManager
+    public class ApplicationUserManager : IApplicationUserManager
     {
         private readonly IApplicationUserRepo _applicationUserRepo;
 

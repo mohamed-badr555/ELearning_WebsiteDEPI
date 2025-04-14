@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories.QuestionRepo
 {
-    internal class QuestionRepo : IQuestionRepo
+    public class QuestionRepo : IQuestionRepo
     {
         private readonly E_LearningDB _context;
 

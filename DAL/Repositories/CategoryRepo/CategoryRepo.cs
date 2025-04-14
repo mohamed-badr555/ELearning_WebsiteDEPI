@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories.CategoryRepo
 {
-    internal class CategoryRepo : ICategoryRepo
+    public class CategoryRepo : ICategoryRepo
     {
         private readonly E_LearningDB _context;
 

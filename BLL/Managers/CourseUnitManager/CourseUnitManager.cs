@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Managers.CourseUnitManager
 {
-    internal class CourseUnitManager : ICourseUnitManager
+    public class CourseUnitManager : ICourseUnitManager
     {
         private readonly ICourseUnitRepo _courseUnitRepo;
 

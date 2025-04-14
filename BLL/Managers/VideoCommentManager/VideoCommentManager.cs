@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Managers.VideoCommentManager
 {
-    internal class VideoCommentManager : IVideoCommentManager
+    public class VideoCommentManager : IVideoCommentManager
     {
         private readonly IVideoCommentRepo _videoCommentRepo;
 

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories.CourseUnitRepo
 {
-    internal class CourseUnitRepo : ICourseUnitRepo
+    public class CourseUnitRepo : ICourseUnitRepo
     {
         private readonly E_LearningDB _context;
 

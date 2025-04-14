@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Managers.CourseManager
 {
-    internal class CourseMananger : ICourseMananger
+    public class CourseMananger : ICourseMananger
     {
         private readonly ICourseRepo _courseRepo;
 

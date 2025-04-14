@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Managers.VideoManager
 {
-    internal class VideoManager : IVideoManager
+    public class VideoManager : IVideoManager
     {
         private readonly IVideoRepo _videoRepo;
 

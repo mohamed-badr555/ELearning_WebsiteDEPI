@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories.VideoCommentRepo
 {
-    internal class VideoCommentRepo : IVideoCommentRepo
+    public class VideoCommentRepo : IVideoCommentRepo
     {
         private readonly E_LearningDB _context;
 

@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Managers.QuestionChoiceManager
 {
-    internal class QuestionChoiceManager : IQuestionChoiceManager
+    public class QuestionChoiceManager : IQuestionChoiceManager
     {
         private readonly IQuestionChoiceRepo _questionChoiceRepo;
 

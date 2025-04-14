@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories.AccountAnswerRepo
 {
-    internal class AccountAnswerRepo : IAccountAnswerRepo
+    public class AccountAnswerRepo : IAccountAnswerRepo
     {
         private readonly E_LearningDB _context;
 

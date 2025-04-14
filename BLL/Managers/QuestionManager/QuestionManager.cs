@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Managers.QuestionManager
 {
-    internal class QuestionManager : IQuestionManager
+    public class QuestionManager : IQuestionManager
     {
         private readonly IQuestionRepo _questionRepo;
 

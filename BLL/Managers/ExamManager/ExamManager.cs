@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Managers.ExamManager
 {
-    internal class ExamManager : IExamManager
+    public class ExamManager : IExamManager
     {
         private readonly IExamRepo _examRepo;
 

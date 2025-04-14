@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Managers.AccountAnswerManager
 {
-    internal class AccountAnswerManager : IAccountAnswerManager
+    public class AccountAnswerManager : IAccountAnswerManager
     {
         private readonly IAccountAnswerRepo _accountAnswerRepo;
 

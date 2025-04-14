@@ -25,7 +25,7 @@ namespace BLL.Managers.ApplicationUserManager
             _applicationUserRepo.Delete(ApplicationUserDto);
         }
 
-        public IQueryable<AuReadDto> GetAll()
+        public IEnumerable<AuReadDto> GetAll()
         {
             var ApplicationUserDto = _applicationUserRepo.GetAll().Select(a => new AuReadDto  //*
             {

@@ -25,7 +25,7 @@ namespace BLL.Managers.QuestionChoiceManager
             _questionChoiceRepo.Delete(QuestionChoiceDto);
         }
 
-        public IQueryable<QcReadDto> GetAll()
+        public IEnumerable<QcReadDto> GetAll()
         {
             var QuestionChoiceDto = _questionChoiceRepo.GetAll().Select(a => new QcReadDto  //*
             {

@@ -25,7 +25,7 @@ namespace BLL.Managers.QuestionManager
             _questionRepo.Delete(QuestionDto);
         }
 
-        public IQueryable<QuestionReadDto> GetAll()
+        public IEnumerable<QuestionReadDto> GetAll()
         {
             var QuestionDto = _questionRepo.GetAll().Select(a => new QuestionReadDto  //*
             {

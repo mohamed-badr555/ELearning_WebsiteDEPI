@@ -4196,11 +4196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ff\\AST-Full Stack\\Tech\\New folder\\DAL\\DAL.csproj",
+      "projectUniqueName": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "F:\\ff\\AST-Full Stack\\Tech\\New folder\\DAL\\DAL.csproj",
+      "projectPath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\aliaa\\.nuget\\packages\\",
-      "outputPath": "F:\\ff\\AST-Full Stack\\Tech\\New folder\\DAL\\obj\\",
+      "outputPath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

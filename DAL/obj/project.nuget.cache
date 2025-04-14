@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vNNCKflkgIE=",
+  "dgSpecHash": "CXj2AIAGE6U=",
   "success": true,
-  "projectFilePath": "F:\\ff\\AST-Full Stack\\Tech\\New folder\\DAL\\DAL.csproj",
+  "projectFilePath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aliaa\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\aliaa\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

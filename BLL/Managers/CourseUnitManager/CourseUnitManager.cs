@@ -26,7 +26,7 @@ namespace BLL.Managers.CourseUnitManager
             _courseUnitRepo.Delete(CourseUnitDto);
         }
 
-        public IQueryable<CourseUnitReadDto> GetAll()
+        public IEnumerable<CourseUnitReadDto> GetAll()
         {
             var CourseUnitDto = _courseUnitRepo.GetAll().Select(a => new CourseUnitReadDto  //*
             {

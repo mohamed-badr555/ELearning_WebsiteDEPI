@@ -10,7 +10,7 @@ namespace BLL.Managers.CourseAccountManager
 {
     public interface ICourseAccountManager
     {
-        IQueryable<CaReadDto> GetAll();
+        IEnumerable<CaReadDto> GetAll();
         CaReadDto GetById(int id);
         void Insert(CaAddDto courseAccount);
         void Update(CaUpdateDto courseAccount);

@@ -10,7 +10,7 @@ namespace BLL.Managers.VideoManager
 {
     public interface IVideoManager
     {
-        IQueryable<VideoReadDto> GetAll();
+        IEnumerable<VideoReadDto> GetAll();
         VideoReadDto GetById(int id);
         void Insert(VideoAddDto video);
         void Update(VideoUpdateDto video);

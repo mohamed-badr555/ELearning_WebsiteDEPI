@@ -10,7 +10,7 @@ namespace BLL.Managers.QuestionManager
 {
     public interface IQuestionManager
     {
-        IQueryable<QuestionReadDto> GetAll();
+        IEnumerable<QuestionReadDto> GetAll();
         QuestionReadDto GetById(int id);
         void Insert(QuestionAddDto question);
         void Update(QuestionUpdateDto question);

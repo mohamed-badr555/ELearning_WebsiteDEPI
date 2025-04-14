@@ -10,7 +10,7 @@ namespace BLL.Managers.CategoryManager
 {
     public interface ICategoryManager
     {
-        IQueryable<CategoryReadDto> GetAll();
+        IEnumerable<CategoryReadDto> GetAll();
         CategoryReadDto GetById(int id);
         void Insert(CategoryAddDto Category);
         void Update(CategoryUpdateDto Category);

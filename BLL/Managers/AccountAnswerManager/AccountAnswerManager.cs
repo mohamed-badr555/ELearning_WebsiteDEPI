@@ -25,7 +25,7 @@ namespace BLL.Managers.AccountAnswerManager
             _accountAnswerRepo.Delete(AccountAnswerDto);
         }
 
-        public IQueryable<AaReadDto> GetAll()
+        public IEnumerable<AaReadDto> GetAll()
         {
             var AccountAnswerDto = _accountAnswerRepo.GetAll().Select(a => new AaReadDto  //*
             {

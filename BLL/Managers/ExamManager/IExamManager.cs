@@ -10,7 +10,7 @@ namespace BLL.Managers.ExamManager
 {
     public interface IExamManager
     {
-        IQueryable<ExamReadDto> GetAll();
+        IEnumerable<ExamReadDto> GetAll();
         ExamReadDto GetById(int id);
         void Insert(ExamAddDto exam);
         void Update(ExamUpdateDto exam);

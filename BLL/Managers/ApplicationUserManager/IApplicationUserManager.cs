@@ -10,7 +10,7 @@ namespace BLL.Managers.ApplicationUserManager
 {
     public interface IApplicationUserManager
     {
-        IQueryable<AuReadDto> GetAll();
+        IEnumerable<AuReadDto> GetAll();
         AuReadDto GetById(int id);
         void Insert(AuAddDto applicationUser);
         void Update(AuUpdateDto applicationUser);

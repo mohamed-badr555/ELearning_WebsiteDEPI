@@ -23,7 +23,7 @@ namespace BLL.Managers.CategoryManager
             _categoryRepo.Delete(CategoryDto);
         }
 
-        public IQueryable<CategoryReadDto> GetAll()
+        public IEnumerable<CategoryReadDto> GetAll()
         {
             var CategoryDto = _categoryRepo.GetAll().Select(a => new CategoryReadDto  //*
             {

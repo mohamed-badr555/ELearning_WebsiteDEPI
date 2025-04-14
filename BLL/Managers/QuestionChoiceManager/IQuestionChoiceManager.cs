@@ -10,7 +10,7 @@ namespace BLL.Managers.QuestionChoiceManager
 {
     public interface IQuestionChoiceManager
     {
-        IQueryable<QcReadDto> GetAll();
+        IEnumerable<QcReadDto> GetAll();
         QcReadDto GetById(int id);
         void Insert(QcAddDto questionChoice);
         void Update(QcUpdateDto questionChoice);

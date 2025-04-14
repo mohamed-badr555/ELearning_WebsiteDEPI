@@ -10,7 +10,7 @@ namespace BLL.Managers.VideoCommentManager
 {
     public interface IVideoCommentManager
     {
-        IQueryable<VcReadDto> GetAll();
+        IEnumerable<VcReadDto> GetAll();
         VcReadDto GetById(int id);
         void Insert(VcAddDto video);
         void Update(VcUpdateDto video);

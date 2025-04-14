@@ -10,7 +10,7 @@ namespace BLL.Managers.AccountAnswerManager
 {
     public interface IAccountAnswerManager
     {
-        IQueryable<AaReadDto> GetAll();
+        IEnumerable<AaReadDto> GetAll();
         AaReadDto GetById(int id);
         void Insert(AaAddDto accountAnswer);
         void Update(AaUpdateDto accountAnswer);

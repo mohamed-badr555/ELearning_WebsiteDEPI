@@ -10,7 +10,7 @@ namespace BLL.Managers.CourseManager
 {
     public interface ICourseMananger
     {
-        IQueryable<CourseReadDto> GetAll();
+        IEnumerable<CourseReadDto> GetAll();
         CourseReadDto GetById(int id);
         void Insert(CourseAddDto Course);
         void Update(CourseUpdateDto Course);

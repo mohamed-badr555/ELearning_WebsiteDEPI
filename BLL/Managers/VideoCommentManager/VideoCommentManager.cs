@@ -25,7 +25,7 @@ namespace BLL.Managers.VideoCommentManager
             _videoCommentRepo.Delete(VideoCommentDto);
         }
 
-        public IQueryable<VcReadDto> GetAll()
+        public IEnumerable<VcReadDto> GetAll()
         {
             var VideoCommentDto = _videoCommentRepo.GetAll().Select(a => new VcReadDto  //*
             {

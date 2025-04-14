@@ -23,7 +23,7 @@ namespace BLL.Managers.CourseAccountManager
             _courseAccountRepo.Delete(CaDto);
         }
 
-        public IQueryable<CaReadDto> GetAll()
+        public IEnumerable<CaReadDto> GetAll()
         {
             var CaDto = _courseAccountRepo.GetAll().Select(a => new CaReadDto  //*
             {

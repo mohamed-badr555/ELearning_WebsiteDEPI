@@ -25,7 +25,7 @@ namespace BLL.Managers.ExamManager
             _examRepo.Delete(ExamDto);
         }
 
-        public IQueryable<ExamReadDto> GetAll()
+        public IEnumerable<ExamReadDto> GetAll()
         {
             var ExamDto = _examRepo.GetAll().Select(a => new ExamReadDto  //*
             {

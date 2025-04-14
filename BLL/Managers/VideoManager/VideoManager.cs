@@ -25,7 +25,7 @@ namespace BLL.Managers.VideoManager
             _videoRepo.Delete(VideoDto);
         }
 
-        public IQueryable<VideoReadDto> GetAll()
+        public IEnumerable<VideoReadDto> GetAll()
         {
             var VideoDto = _videoRepo.GetAll().Select(a => new VideoReadDto  //*
             {

@@ -4606,23 +4606,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aliaa\\.nuget\\packages\\": {},
+    "C:\\Users\\as\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj",
+      "projectUniqueName": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj",
       "projectName": "API",
-      "projectPath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj",
-      "packagesPath": "C:\\Users\\aliaa\\.nuget\\packages\\",
-      "outputPath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\E-Learning_API\\obj\\",
+      "projectPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj",
+      "packagesPath": "C:\\Users\\as\\.nuget\\packages\\",
+      "outputPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\E-Learning_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\aliaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\as\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4637,8 +4637,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj": {
-              "projectPath": "F:\\ff\\AST-Full Stack\\Tech\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj"
+            "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj"
             }
           }
         }
@@ -4653,7 +4653,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -4689,7 +4689,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

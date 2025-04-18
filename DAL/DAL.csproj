@@ -27,6 +27,8 @@
     <Compile Include="Repositories\CourseUnitRepo\ICourseUnitRepo.cs" />
     <Compile Include="Repositories\ExamRepo\ExamRepo.cs" />
     <Compile Include="Repositories\ExamRepo\IExamRepo.cs" />
+    <Compile Include="Repositories\GenericRepository.cs" />
+    <Compile Include="Repositories\IGenericRepository.cs" />
     <Compile Include="Repositories\QuestionChoiceRepo\IQuestionChoiceRepo.cs" />
     <Compile Include="Repositories\QuestionChoiceRepo\QuestionChoiceRepo.cs" />
     <Compile Include="Repositories\QuestionRepo\IQuestionRepo.cs" />

@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace DAL.Data.Models
 {
-    public class Course
+    public class Course :BaseEntity
     {
-        public int ID { get; set; }
+       
         [MaxLength(50)]
         public string Title { get; set; }
         [MaxLength(50)]

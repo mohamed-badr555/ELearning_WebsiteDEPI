@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace DAL.Data.Models
 {
-    public class Category
+    public class Category :BaseEntity
     {
-        public int ID { get; set; }
+       
         [MaxLength(100)]
         public string Name { get; set; }
 

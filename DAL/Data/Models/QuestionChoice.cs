@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace DAL.Data.Models
 {
-    public class QuestionChoice
+    public class QuestionChoice :BaseEntity
     {
-        public int ID { get; set; }
+       
         [MaxLength(100)]
         public string Text { get; set; }
 

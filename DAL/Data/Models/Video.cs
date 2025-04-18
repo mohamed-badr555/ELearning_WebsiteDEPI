@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace DAL.Data.Models
 {
-    public class Video
+    public class Video :BaseEntity
     {
-        public int ID { get; set; }
+       
         [MaxLength(75)]
         public string Title { get; set; }
         [MaxLength(1500)]

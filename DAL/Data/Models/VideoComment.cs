@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace DAL.Data.Models
 {
-    public class VideoComment
+    public class VideoComment :BaseEntity
     {
-        public int ID { get; set; }
+       
         [MaxLength(3000)]
         public string? Text { get; set; }
         public DateTime Time { get; set; }

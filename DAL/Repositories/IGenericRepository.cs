@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
-    internal interface IGenericRepository<T> where T :BaseEntity
+    public interface IGenericRepository<T> where T :BaseEntity
     {
         
 

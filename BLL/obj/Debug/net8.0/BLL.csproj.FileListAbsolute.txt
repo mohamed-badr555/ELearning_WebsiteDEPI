@@ -13,3 +13,19 @@ E:\New folder\DEPI\Project\API\E-Learning_API\BLL\bin\Debug\net8.0\DAL.dll
 E:\New folder\DEPI\Project\API\E-Learning_API\BLL\bin\Debug\net8.0\DAL.pdb
 E:\New folder\DEPI\Project\API\E-Learning_API\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
 E:\New folder\DEPI\Project\API\E-Learning_API\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\obj\Debug\net8.0\BLL.dll
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\obj\Debug\net8.0\BLL.pdb
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\bin\Debug\net8.0\BLL.dll
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\bin\Debug\net8.0\BLL.pdb
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\bin\Debug\net8.0\DAL.dll
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\bin\Debug\net8.0\DAL.pdb
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\BLL\obj\Debug\net8.0\ref\BLL.dll

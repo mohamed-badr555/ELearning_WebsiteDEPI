@@ -33,6 +33,9 @@ namespace DAL.Data.Models
         [MaxLength(300)]
         public int Num_Units { get; set; }
 
+        [Required(ErrorMessage = "Image Is Required")]
+        [Display(Name = "Image Name")]
+        public string ImageName { get; set; }
 
         #region Category - Course (1-M)
         public int? CategoryID { get; set; } //Foreign key

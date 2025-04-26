@@ -10,7 +10,7 @@ namespace DAL.Data.Models
     public class Category :BaseEntity
     {
        
-        [MaxLength(100)]
+        [MaxLength(100, ErrorMessage ="Category Name Is Required") ]
         public string Name { get; set; }
 
         public ICollection<Course> Courses { get; set; }

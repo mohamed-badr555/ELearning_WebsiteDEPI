@@ -64,6 +64,14 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
+$(document).ready(function () {
+    $("#span_chevron").click(function () {
+        $("#UnitToggle").slideToggle("");
+    });
+});
+$("#span_chevron").click(function () {
+    $("#span_chevron").toggleClass("span");
+});
 
 //// Counter animation for stat cards
 //function animateCounters() {

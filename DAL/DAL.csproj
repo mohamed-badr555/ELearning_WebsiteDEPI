@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repositories\**" />
+    <EmbeddedResource Remove="Repositories\**" />
+    <None Remove="Repositories\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Repositories\AccountAnswerRepo\AccountAnswerRepo.cs" />
+    <Compile Include="Repositories\AccountAnswerRepo\IAccountAnswerRepo.cs" />
+    <Compile Include="Repositories\ApplicationUserRepo\ApplicationUserRepo.cs" />
+    <Compile Include="Repositories\ApplicationUserRepo\IApplicationUserRepo.cs" />
+    <Compile Include="Repositories\CategoryRepo\CategoryRepo.cs" />
+    <Compile Include="Repositories\CategoryRepo\ICategoryRepo.cs" />
+    <Compile Include="Repositories\CourseAccountRepo\CourseAccountRepo.cs" />
+    <Compile Include="Repositories\CourseAccountRepo\ICourseAccountRepo.cs" />
+    <Compile Include="Repositories\CourseRepo\CourseRepo.cs" />
+    <Compile Include="Repositories\CourseRepo\ICourseRepo.cs" />
+    <Compile Include="Repositories\CourseUnitRepo\CourseUnitRepo.cs" />
+    <Compile Include="Repositories\CourseUnitRepo\ICourseUnitRepo.cs" />
+    <Compile Include="Repositories\ExamRepo\ExamRepo.cs" />
+    <Compile Include="Repositories\ExamRepo\IExamRepo.cs" />
+    <Compile Include="Repositories\QuestionChoiceRepo\IQuestionChoiceRepo.cs" />
+    <Compile Include="Repositories\QuestionChoiceRepo\QuestionChoiceRepo.cs" />
+    <Compile Include="Repositories\QuestionRepo\IQuestionRepo.cs" />
+    <Compile Include="Repositories\QuestionRepo\QuestionRepo.cs" />
+    <Compile Include="Repositories\VideoCommentRepo\IVideoCommentRepo.cs" />
+    <Compile Include="Repositories\VideoCommentRepo\VideoCommentRepo.cs" />
+    <Compile Include="Repositories\VideoRepo\IVideoRepo.cs" />
+    <Compile Include="Repositories\VideoRepo\VideoRepo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

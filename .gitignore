@@ -1,3 +1,10 @@
 .vs/
-obj/
-debug/
+**/bin/
+**/obj/
+*.dll
+*.exe
+*.cache
+*.pdb
+*.log
+*.user
+*.vs/

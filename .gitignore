@@ -1,1 +1,7 @@
 .vs/
+E-Learning_API/obj
+DAL/obj
+BLL/obj
+E-Learning_API/bin
+DAL/bin
+BLL/bin

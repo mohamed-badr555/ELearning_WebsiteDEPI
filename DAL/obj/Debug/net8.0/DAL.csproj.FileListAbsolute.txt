@@ -12,18 +12,3 @@ E:\New folder\DEPI\Project\API\E-Learning_API\DAL\obj\Debug\net8.0\refint\DAL.dl
 E:\New folder\DEPI\Project\API\E-Learning_API\DAL\obj\Debug\net8.0\DAL.pdb
 E:\New folder\DEPI\Project\API\E-Learning_API\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
 E:\New folder\DEPI\Project\API\E-Learning_API\DAL\obj\Debug\net8.0\ref\DAL.dll
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\obj\Debug\net8.0\DAL.sourcelink.json
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\obj\Debug\net8.0\DAL.dll
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\obj\Debug\net8.0\refint\DAL.dll
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\obj\Debug\net8.0\DAL.pdb
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\bin\Debug\net8.0\DAL.deps.json
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\bin\Debug\net8.0\DAL.dll
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\bin\Debug\net8.0\DAL.pdb
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
-D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\DAL\obj\Debug\net8.0\ref\DAL.dll

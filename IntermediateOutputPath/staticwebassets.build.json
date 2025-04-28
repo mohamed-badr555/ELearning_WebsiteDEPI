@@ -1,0 +1,4 @@
+{
+  // Add a placeholder for debugging malformed JSON
+  "debug": "Ensure this file contains valid JSON structure."
+}

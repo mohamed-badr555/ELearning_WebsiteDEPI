@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using System.Text;
 using BLL.Managers.CourseManager;
 using BLL.Managers.EnrollmentManager;
+using DAL.Repositories.VideoRepo;
 
 
 
@@ -22,6 +23,11 @@ builder.Services.AddAutoMapper(typeof(CourseMappingProfile).Assembly);
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 builder.Services.AddScoped<ICourseManager,CourseManager>();
 builder.Services.AddScoped<IEnrollmentManager, EnrollmentManager>();
+
+
+
+
+
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

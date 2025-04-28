@@ -162,7 +162,7 @@ namespace DAL.DB_Context
         public DbSet<Question> Questions { get; set; }
         public DbSet<QuestionChoice> QuestionChoices { get; set; }
         public DbSet<Video> Videos { get; set; }
-        public DbSet<VideoComment> VideoComments { get; set; }
+        public DbSet<Comment> VideoComments { get; set; }
         public DbSet<AccountAnswer> AccountAnswers { get; set; }
     }
 }

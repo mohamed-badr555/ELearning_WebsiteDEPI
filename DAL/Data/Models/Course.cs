@@ -34,6 +34,7 @@ namespace DAL.Data.Models
         public int Num_Units { get; set; }
         [MaxLength(300)]
         public string ThumbnailUrl { get; set; }    // New !!!
+        public ICollection<Video>? Videos { get; set; }
 
 
         #region Category - Course (1-M)
@@ -47,6 +48,7 @@ namespace DAL.Data.Models
 
         #region Course - Account (M-M)
         public ICollection<CourseAccount> CourseAccounts { get; set; }
+        public object Video { get; internal set; }
         #endregion
     }
 }

@@ -1,47 +1,42 @@
 ﻿using DAL.Data.Models;
 using DAL.DB_Context;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace DAL.Repositories.VideoRepo
 {
-    public class VideoRepo : IVideoRepo
+    public class VideoService
     {
-        private readonly E_LearningDB _context;
+        private readonly IVideoRepo _videoRepository;
 
-        public VideoRepo(E_LearningDB context)
+        public VideoService(IVideoRepo videoRepository)
         {
-            _context = context;
-        }
-        public void Delete(Video Video)
-        {
-            _context.Remove(Video);
-            _context.SaveChanges();
+            _videoRepository = videoRepository;
         }
 
-        public IQueryable<Video> GetAll()
+        public async Task<IEnumerable<Video>> GetAllVideosAsync()
         {
-            return _context.Videos.AsNoTracking();
+            return await _videoRepository.GetAllVideosAsync();
         }
 
-        public Video GetById(int id)
+        public async Task<Video> GetVideoByIdAsync(int id)
         {
-            return _context.Videos.Find(id);
+            return await _videoRepository.GetVideoByIdAsync(id);
         }
 
-        public void Insert(Video Video)
+        public async Task AddVideoAsync(Video video)
         {
-            _context.Add(Video);
-            _context.SaveChanges();
+            await _videoRepository.AddVideoAsync(video);
         }
 
-        public void Update(Video Video)
+        public async Task UpdateVideoAsync(Video video)
         {
-            _context.SaveChanges();
+            await _videoRepository.UpdateVideoAsync(video);
+        }
+
+        public async Task DeleteVideoAsync(Video video)
+        {
+            await _videoRepository.DeleteVideoAsync(video);
         }
     }
 }

@@ -4,6 +4,7 @@ using BLL.Managers.CourseManager;
 using DAL.Data.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace E_Learning_API.Controllers
 {
@@ -12,6 +13,7 @@ namespace E_Learning_API.Controllers
     public class CoursesController : ControllerBase
     {
         private readonly ICourseManager _courseMananger;
+        private object _courseManager;
 
         public CoursesController(ICourseManager courseMananger)
         {
@@ -99,6 +101,7 @@ namespace E_Learning_API.Controllers
             await _courseMananger.DeleteAsync(id);
             return NoContent();
         }
+        
     }
 
 

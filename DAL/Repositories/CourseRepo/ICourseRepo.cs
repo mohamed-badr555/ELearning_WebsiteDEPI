@@ -9,6 +9,17 @@ namespace DAL.Repositories.CourseRepo
 {
     public interface ICourseRepo : IGenericRepository<Course>
     {
-        //Task<List<Course>> SearchAsync(string query);
+        //Task<Liublic interface ICourseRepository
+    
+        
+    
+     new Task<IEnumerable<Course>> GetAllAsync();
+        new Task<Course> GetByIdAsync(int id);
+        Task AddAsync(Course course);
+        new Task UpdateAsync(Course course);
+        new Task DeleteAsync(Course course);
     }
+  
+
+    
 }

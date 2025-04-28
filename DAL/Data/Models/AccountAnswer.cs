@@ -7,9 +7,15 @@ using System.Threading.Tasks;
 
 namespace DAL.Data.Models
 {
+<<<<<<< HEAD
     public class AccountAnswer :BaseEntity
     {
        
+=======
+    public class AccountAnswer
+    {
+        public int Id { get; set; }
+>>>>>>> origin/register
         public int ExamId { get; set; }
         public int AccountId { get; set; }        
         public int QuestionId { get; set; }        

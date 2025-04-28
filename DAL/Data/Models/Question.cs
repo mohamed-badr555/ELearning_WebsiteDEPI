@@ -9,9 +9,15 @@ using System.Threading.Tasks;
 namespace DAL.Data.Models
 {
 
+<<<<<<< HEAD
     public class Question :BaseEntity
     {
        
+=======
+    public class Question
+    {
+        public int ID { get; set; }
+>>>>>>> origin/register
         //[MaxLength(30)]
         //public string Type { get; set; }    We will assume that we have only MCQ 
         [MaxLength(50)]

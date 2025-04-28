@@ -7,7 +7,11 @@ using System.Threading.Tasks;
 
 namespace DAL.Data.Models
 {
+<<<<<<< HEAD
     public class Category :BaseEntity
+=======
+    public class Category
+>>>>>>> origin/register
     {
        
         [MaxLength(100, ErrorMessage ="Category Name Is Required") ]

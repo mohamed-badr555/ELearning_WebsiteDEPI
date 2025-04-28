@@ -7,7 +7,11 @@ using System.Threading.Tasks;
 
 namespace DAL.Data.Models
 {
+<<<<<<< HEAD
     public class Video :BaseEntity
+=======
+    public class Video
+>>>>>>> origin/register
     {
        
         [MaxLength(75)]

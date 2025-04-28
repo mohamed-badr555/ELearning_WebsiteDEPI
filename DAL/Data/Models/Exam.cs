@@ -7,7 +7,11 @@ using System.Threading.Tasks;
 
 namespace DAL.Data.Models
 {
+<<<<<<< HEAD
     public class Exam :BaseEntity
+=======
+    public class Exam
+>>>>>>> origin/register
     {
        
         [MaxLength(50)]

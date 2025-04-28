@@ -18,7 +18,11 @@ namespace DAL.Data.Models
         [MaxLength(25)]
         public string Lname { get; set; }
 
+<<<<<<< HEAD
         public Gender Gender { get; set; }
+=======
+        public bool Gender { get; set; }
+>>>>>>> origin/register
 
         [MaxLength(60)]
         public string Country { get; set; }
@@ -26,10 +30,18 @@ namespace DAL.Data.Models
         public DateTime Birthdate { get; set; }
 
         [MaxLength(50)]
+<<<<<<< HEAD
         public string EduLevel { get; set; }
 
         [MaxLength(200)]
         public string? Address { get; set; }
+=======
+        public int EduLevel { get; set; }
+
+        [MaxLength(200)]
+        public string? Address { get; set; }
+        public int countryId { get; set; }
+>>>>>>> origin/register
 
         [MaxLength(500)]
         public string? ImageUrl { get; set; }
@@ -42,14 +54,22 @@ namespace DAL.Data.Models
 
         // 👇 One-to-Many: Answers
         public ICollection<AccountAnswer> AccountAnswers { get; set; }
+<<<<<<< HEAD
 
 
+=======
+        
+>>>>>>> origin/register
     }
     public enum Gender
     {
         Male,
         Female
     }
+<<<<<<< HEAD
 
 
 }
+=======
+}
+>>>>>>> origin/register

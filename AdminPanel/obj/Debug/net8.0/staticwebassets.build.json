@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "Hash": "imeyClMmflDL5oZZr8y1TP84sTvw4YZdbmo/mWWc4c4=",
+=======
+  "Hash": "EhXkbctV5x+eTPhLB86HNn46IkUbqEwV8AjY9RQ9UBs=",
+>>>>>>> Stashed changes
   "Source": "AdminPanel",
   "BasePath": "_content/AdminPanel",
   "Mode": "Default",
@@ -134,10 +138,38 @@
       "OriginalItemSpec": "wwwroot\\Images\\icon.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\js\\site.js",
       "SourceId": "AdminPanel",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\",
+=======
+      "Identity": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\Images\\Learning-cuate.png",
+      "SourceId": "AdminPanel",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\",
+      "BasePath": "_content/AdminPanel",
+      "RelativePath": "Images/Learning-cuate#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b2sa5y6sub",
+      "Integrity": "bQarkr7g1m/lXelsEQZXt2rqin8RS1GDo0J1cdkQ6/Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Learning-cuate.png"
+    },
+    {
+      "Identity": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\js\\site.js",
+      "SourceId": "AdminPanel",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/AdminPanel",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1518,6 +1550,54 @@
       ]
     },
     {
+<<<<<<< Updated upstream
+=======
+      "Route": "css/site.72lqdblddh.css",
+      "AssetFile": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4UlE7xqbSJ3RcLM3+ba/dKJZmDZrQVijHgWySWj1YA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 18:00:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72lqdblddh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4UlE7xqbSJ3RcLM3+ba/dKJZmDZrQVijHgWySWj1YA0="
+        }
+      ]
+    },
+    {
+>>>>>>> Stashed changes
       "Route": "css/site.css",
       "AssetFile": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1540,7 +1620,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< Updated upstream
           "Value": "Sat, 26 Apr 2025 07:19:55 GMT"
+=======
+          "Value": "Sat, 26 Apr 2025 18:00:48 GMT"
+>>>>>>> Stashed changes
         },
         {
           "Name": "Cache-Control",
@@ -1764,6 +1848,91 @@
       ]
     },
     {
+<<<<<<< Updated upstream
+=======
+      "Route": "Images/Learning-cuate.b2sa5y6sub.png",
+      "AssetFile": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\Images\\Learning-cuate.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bQarkr7g1m/lXelsEQZXt2rqin8RS1GDo0J1cdkQ6/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 18:00:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b2sa5y6sub"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Learning-cuate.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bQarkr7g1m/lXelsEQZXt2rqin8RS1GDo0J1cdkQ6/Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Learning-cuate.png",
+      "AssetFile": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\Images\\Learning-cuate.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bQarkr7g1m/lXelsEQZXt2rqin8RS1GDo0J1cdkQ6/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 18:00:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bQarkr7g1m/lXelsEQZXt2rqin8RS1GDo0J1cdkQ6/Q="
+        }
+      ]
+    },
+    {
+>>>>>>> Stashed changes
       "Route": "js/site.js",
       "AssetFile": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\js\\site.js",
       "Selectors": [],

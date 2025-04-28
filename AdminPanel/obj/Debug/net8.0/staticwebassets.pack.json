@@ -5,6 +5,13 @@
       "PackagePath": "staticwebassets\\AdminPanel.osxq848zax.bundle.scp.css"
     },
     {
+<<<<<<< Updated upstream
+=======
+      "Id": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\Images\\Learning-cuate.png",
+      "PackagePath": "staticwebassets\\Images\\Learning-cuate.png"
+    },
+    {
+>>>>>>> Stashed changes
       "Id": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\wwwroot\\Images\\icon.png",
       "PackagePath": "staticwebassets\\Images\\icon.png"
     },

@@ -62,3 +62,14 @@ D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net
 D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net8.0\staticwebassets.build.json
 D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net8.0\staticwebassets.build.json
 D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net8.0\staticwebassets.build.json
+<<<<<<< Updated upstream
+=======
+C:\Users\Ayman\Source\Repos\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ayman\Source\Repos\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ayman\Source\Repos\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ayman\Source\Repos\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ayman\Source\Repos\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ayman\Source\Repos\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net8.0\staticwebassets.build.json
+>>>>>>> Stashed changes
+D:\Depi\ELearning_WebsiteDEPI\ELearning_WebsiteDEPI\E-Learning_API\obj\Debug\net8.0\staticwebassets.build.json

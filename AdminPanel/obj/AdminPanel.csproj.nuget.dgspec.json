@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\AdminPanel\\AdminPanel.csproj": {}
+    "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\AdminPanel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\AdminPanel\\AdminPanel.csproj": {
+    "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\AdminPanel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\AdminPanel\\AdminPanel.csproj",
+        "projectUniqueName": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\AdminPanel.csproj",
         "projectName": "AdminPanel",
-        "projectPath": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\AdminPanel\\AdminPanel.csproj",
-        "packagesPath": "C:\\Users\\Ayman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ayman\\source\\repos\\ELearning_WebsiteDEPI\\AdminPanel\\obj\\",
+        "projectPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\AdminPanel.csproj",
+        "packagesPath": "C:\\Users\\as\\.nuget\\packages\\",
+        "outputPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\AdminPanel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ayman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\as\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj": {
-                "projectPath": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj"
+              "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj": {
+                "projectPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj"
               }
             }
           }
@@ -76,20 +76,20 @@
         }
       }
     },
-    "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj": {
+    "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj",
+        "projectUniqueName": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\Ayman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\BLL\\obj\\",
+        "projectPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\as\\.nuget\\packages\\",
+        "outputPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ayman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\as\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,8 +104,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj"
+              "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj"
               }
             }
           }
@@ -145,20 +145,20 @@
         }
       }
     },
-    "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj": {
+    "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Ayman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\DAL\\obj\\",
+        "projectPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\as\\.nuget\\packages\\",
+        "outputPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ayman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\as\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -230,20 +230,20 @@
         }
       }
     },
-    "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj": {
+    "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj",
+        "projectUniqueName": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj",
-        "packagesPath": "C:\\Users\\Ayman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\E-Learning_API\\obj\\",
+        "projectPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\E-Learning_API\\API.csproj",
+        "packagesPath": "C:\\Users\\as\\.nuget\\packages\\",
+        "outputPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\E-Learning_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ayman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\as\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -258,8 +258,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\Ayman\\Source\\Repos\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj"
+              "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\Depi\\ELearning_WebsiteDEPI\\ELearning_WebsiteDEPI\\BLL\\BLL.csproj"
               }
             }
           }

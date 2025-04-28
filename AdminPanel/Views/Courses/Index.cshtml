@@ -1,14 +1,13 @@
 ﻿
 
 @{
-    ViewData["Title"] = "Courses";
+    // ViewData["Title"] = "Courses";
   
 }
 @model Course
 <section dir="rtl" class="p-2 border-end border-top border-4 border-primary">
     <div class="d-flex justify-content-between align-items-center">
 
-        <div> Number Of Courses:</div>
         <div>
 
             <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addCourse">
@@ -20,6 +19,8 @@
 
         </div>
 
+        <div> Number Of Courses: 5</div>
+
     </div>
     <hr class="link-primary " style="height: 5px; width: 100%;">
     <div class="row ">
@@ -27,7 +28,14 @@
             <div class="card m-3">
                 <img src="images/Learning-cuate.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h4 class="card-title fw-bolder">دورة ابنى ابنك</h4>
+                    <h4>
+                    <a asp-action="Index" class="text-decoration-none card-title fw-bolder" asp-controller="Units" asp-route-courseId="5">
+                  
+                            دورة ابنى ابنك
+                  
+                        </a>
+
+                    </h4>
                     <p class="badge text-bg-secondary">دورة لأكتشاف مهارة الابناء</p>
                     <div dir="" class="input-group mb-3 w-50 mx-auto">
                         <span dir="" class="input-group-text rounded-start-0 rounded-end-2">00.</span>
